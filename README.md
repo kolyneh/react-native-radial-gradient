@@ -1,9 +1,24 @@
 
 # react-native-radial-gradient
 
+Forked from surajitsarkar19's *[react-native-radial-gradient](https://github.com/surajitsarkar19/react-native-radial-gradient)
+
+Added AndroidX/TypeScript support.
+
 ## Getting started
 
-`$ npm install react-native-radial-gradient --save`
+Add this line to `package.json` dependencies scope.
+```
+    "react-native-radial-gradient": "https://github.com/kolyneh/react-native-radial-gradient",
+```
+
+For npm: delete `package-lock.json` then run:
+
+`$ npm install`
+
+For yarn: delete `yarn.lock` then run:
+
+`$ yarn install`
 
 ### Mostly automatic installation
 
