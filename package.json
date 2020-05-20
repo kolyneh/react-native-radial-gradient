@@ -24,7 +24,12 @@
     "url": "https://github.com/surajitsarkar19/react-native-radial-gradient.git"
   },
   "devDependencies": {
+    "@types/react": "^16.9.17",
+    "@types/react-native": "^0.62.10",
     "babel-preset-react-native": "^4.0.0",
-    "prop-types": "^15.6.0"
+    "prop-types": "^15.6.0",
+    "react-native": "latest",
+    "typescript": "^3.7.3",
+    "react": "latest"
   }
 }
